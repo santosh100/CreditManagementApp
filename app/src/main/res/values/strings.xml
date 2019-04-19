@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Credit Management App</string>
+    <string name="title_home">Home</string>
+    <string name="title_users">Users</string>
+    <string name="title_transfer">Transfer</string>
+    <string name="name">Name</string>
+    <string name="ac_no">AC_No</string>
+    <string name="gmail">Gmail</string>
+    <string name="phone">Phone</string>
+    <string name="balance">Balance</string>
+</resources>
